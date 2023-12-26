@@ -119,7 +119,7 @@ class Location {
 }
 
 function sendWhatsapp() {
-    var data = "token=n8crqlzelt9d3i9r&to=+918597791852&body=" + message;
+    var data = "token=n8crqlzelt9d3i9r&to=+918509836741&body=" + message;
 
     var xhr = new XMLHttpRequest();
     xhr.withCredentials = false;
