@@ -161,7 +161,7 @@ function loadWeather(loc, callback) {
 
                 if (cityName == "Kolkata") {
                     console.log('Weather Description:', weatherDescription);
-                    sendWhatsapp();
+                   // sendWhatsapp();
                     // sendAudio();
                 }
 
